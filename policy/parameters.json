@@ -1,0 +1,9 @@
+{
+  "tagName": {
+    "type": "String",
+    "metadata": {
+      "displayName": "Required tag",
+      "description": "The tag that resources must contain"
+    }
+  }
+}
